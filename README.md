@@ -1,6 +1,3 @@
 # valoapp
 
-PUNYA:
-GREGORIUS DAVIN PUTRA PARLINDUNGAN SIREGAR
-21120121130068
-Kalo Ada yg sama plagiat gweh :v
+
